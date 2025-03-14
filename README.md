@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Mark's KFC Clicker Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a fun clicker game where you feed Mark KFC or switch to Halal mode to feed Javed Doner Meat and Chips. https://ben-griffiths.github.io/mark
 
 ## Available Scripts
 

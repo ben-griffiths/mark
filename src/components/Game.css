@@ -1,0 +1,19 @@
+.falling-item {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  transition: top 1s linear;
+  z-index: 0;
+  animation: rotate 5s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
